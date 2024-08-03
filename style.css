@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #f7f7f7, #fff);
+    padding: 100px 0;
+    text-align: center;
+}
+
+.featured {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.download {
+    background-color: #fff;
+    padding: 50px;
+}
